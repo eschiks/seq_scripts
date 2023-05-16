@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+# pulls transposable elements from UCSC rmsk file and outputs SAF file for featureCounts
 
 filter_list=['DNA','DNA?','LINE','LTR','RC','SINE'] # filter list from Garrigues et al. 2022 - all types of transposable elements
 
