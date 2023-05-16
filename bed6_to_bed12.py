@@ -2,7 +2,7 @@
 
 # utility to convert sorted bed6 to bed12 - combines features based on shared name (bed column 4)
 
-# 1=bed6 file input, 2=bed12 file output
+# inputs: 1=bed6 file input, 2=bed12 file output
 
 import sys
 
