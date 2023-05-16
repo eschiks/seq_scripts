@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# pulls intergenic regions from Wormbase gtf file
+# pulls intergenic regions from Wormbase gtf file and outputs SAF file with coordinates to be used for featureCounts
 
 # inputs: 1=gtf file, 2=output bed file name, 3=output saf file name #
 
