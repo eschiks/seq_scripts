@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 
 # inputs: 1=gtf file, 2=SJ.out.tab file from STAR (with unique and multi-mapped columns)
-# prints out % of unannotated junctions 
+
+# prints out % of unannotated splice junctions from STAR SJ.out.tab file, pulling all annotated splice junctions from Wormbase gtf
 
 import sys
 
