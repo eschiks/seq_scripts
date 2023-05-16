@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# pulls intron coordinates from Wormbase gtf file that do not overlap with any annotated exon
+# pulls intron coordinates from Wormbase gtf file that do not overlap with any annotated exon and outputs a SAF file that can be used with featureCounts
 
 # inputs: 1=gtf file, 2=output bed file name, 3=output saf file name #
 
