@@ -2,7 +2,7 @@
 
 # pulls intergenic regions from Wormbase gtf file and outputs SAF file with coordinates to be used for featureCounts
 
-# inputs: 1=gtf file, 2=output bed file name, 3=output saf file name #
+# inputs: 1=chrom sizes file, 2=gtf file, 3=output saf file name #
 
 import sys
 
